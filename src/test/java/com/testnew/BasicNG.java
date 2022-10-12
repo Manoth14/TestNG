@@ -1,7 +1,5 @@
 package com.testnew;
 
-import org.testng.annotations.Test;
-
 public class BasicNG {
 
 	public void tt1() {
@@ -15,6 +13,15 @@ public class BasicNG {
 
 	private void tt3() {
 		System.out.println("C");
+	}
+
+	private void tt4() {
+		System.out.println("D");
+	}
+
+	private void tt7() {
+		System.out.println("G");
+
 	}
 
 	public static void main(String[] args) {
