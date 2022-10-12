@@ -13,9 +13,15 @@ public class BasicNG {
 		System.out.println("B");
 	}
 
+	private void tt3() {
+		System.out.println("C");
+	}
+
 	public static void main(String[] args) {
 		BasicNG basicNG = new BasicNG();
 		basicNG.tt1();
 		basicNG.tt2();
+		basicNG.tt3();
+
 	}
 }
