@@ -13,6 +13,15 @@ public class BasicNG {
 
 	private void tt3() {
 		System.out.println("C");
+
+	}
+
+	private void tt5() {
+		System.out.println("E");
+	}
+
+	private void tt6() {
+		System.out.println("F");
 	}
 
 	private void tt4() {
